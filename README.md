@@ -5,3 +5,5 @@ Added background image and linear-gradient and made header as a polygon with cli
 background: linear-gradient, url
 background-size: cover
 background-position
+
+added backface-visibility: hidden; for clear fix animations
